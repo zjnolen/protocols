@@ -1,6 +1,5 @@
 ---
-title: DNA Extraction from Fresh/Frozen Butterfly Tissue using the Qiagen DNeasy Blood and Tissue Kit
-date: \vspace{-6ex}Last revised 27 October 2020
+title: DNA Extraction from Fresh/Frozen Butterfly Tissue using the Qiagen DNeasy Blood and Tissue Kit\vspace{-6ex}
 geometry: margin=2.5cm
 ---
 
@@ -33,11 +32,11 @@ This protocol is based on the manufacturer's handbook for the DNeasy Blood and T
 7. Place the spin column in a new 2 ml collection tube, add **200 µl Buffer AW2**, centrifuge at **20 000 x g** for **3 min** to dry the DNeasy membrane. Discard flow-through and collection tube.
    * **Note**: Ensure spin column does not touch flow through on removal from the collection tube. If it does, place in a new spin column and repeat centrifugation to dry.
 
-8. Place the spin column in a clean and **labeled LoBind tube**. Add **65 µl Buffer AE** directly to the column membrane. Incubate at **room temperature** for **1 min**, then centrifuge at **6000 x g** for **1 min** to elute.
+8. Place the spin column in a clean and **labeled LoBind tube**. Add **100 µl Buffer AE** directly to the column membrane. Incubate at **room temperature** for **1 min**, then centrifuge at **6000 x g** for **1 min** to elute.
 
-9. **Repeat** elution in **Step 8** once more into a **new LoBind tube** so as not dilute the first elution. Label each tube with the elution number, these are your extractions.
+9. **Transfer elution** from LoBind tube **back into the spin column**, and **place the column back into the LoBind tube**. Incubate at **room temperature** for **1 min**, then centrifuge at **6000 x g** for **1 min** to elute again. Label each tube with the elution number, these are your extractions.
 
-**Additional notes**: According to Qiagen, higher elution volumes (200 µl in handbook) will increase DNA yield, but reduce overall concentration. We use a lower volume to increase concentration.
+**Additional notes**: According to Qiagen, higher elution volumes (200 µl in handbook) will increase DNA yield, but reduce overall concentration. We use a lower volume and reuse the elution to increase concentration.
 
 # Required Materials and Reagents
 
@@ -56,3 +55,5 @@ This protocol is based on the manufacturer's handbook for the DNeasy Blood and T
 * Eppendorf LoBind Tubes (1.5 or 2.0 ml)
 * RNase A (100 mg/ml)
 * Ethanol (96 - 100%)
+
+Last revised 11 December 2020
