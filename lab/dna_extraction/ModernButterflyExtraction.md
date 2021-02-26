@@ -10,7 +10,7 @@ This protocol is based on the manufacturer's handbook for the DNeasy Blood and T
 
 ## Day 1 - Tissue Lysis
 
-1. Using a **decontaminated scalpel** and set of tweezers, remove wings, abdomen, legs, and antennae. Store these in a labelled tube or envelope. Transfer **abdomen** and **head** to **Eppendorf LoBind tube**. This step can be done in advance if the tissue is then stored at -80°C.
+1. Using a **decontaminated scalpel** and set of tweezers, remove wings, abdomen, legs, and antennae. Store these in a labelled tube or envelope. Transfer **thorax** and **head** to **Eppendorf LoBind tube**. This step can be done in advance if the tissue is then stored at -80°C.
 
 2. Add **180 µl Buffer ATL** to tube with tissue. **Crush** tissue using pestle by grinding agains the sides of the tube. Break tissue down as much as possible.
 
