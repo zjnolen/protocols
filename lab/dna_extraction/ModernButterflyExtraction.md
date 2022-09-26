@@ -9,9 +9,9 @@ This protocol is based on the manufacturer's handbook for the DNeasy Blood and T
 
 ## Day 1 - Tissue Lysis
 
-1. Using a **decontaminated scalpel** and set of tweezers, remove wings, abdomen, legs, and antennae. Store these in a labelled tube or envelope. Transfer **thorax** and **head** to **Eppendorf LoBind tube**. This step can be done in advance if the tissue is then stored at -80°C.
+1. Using a **decontaminated scalpel or microscissors** and set of tweezers, remove wings, abdomen, legs, and antennae. Store these in a labelled tube or envelope. Transfer **thorax** and **head** to **Eppendorf LoBind tube**. This step can be done in advance if the tissue is then stored at -80°C.
 
-2. Add **180 µl Buffer ATL** to tube with tissue. **Crush** tissue using pestle by grinding agains the sides of the tube. Break tissue down as much as possible.
+2. Add **180 µl Buffer ATL** to tube with tissue. **Crush** tissue using a **decontaminated pestle** by grinding against the sides of the tube. Break tissue down as much as possible.
 
 3. Add **20 µl Proteinase K**, **mix** by vortexing and incubate at **56°C** in agitated water bath **overnight**.
 
@@ -52,6 +52,7 @@ This protocol is based on the manufacturer's handbook for the DNeasy Blood and T
 
 **User Supplied**
 
+* Microtube pestle (1 per sample)
 * Eppendorf LoBind Tubes (1.5 or 2.0 ml)
 * RNase A (100 mg/ml)
 * Ethanol (96 - 100%)
