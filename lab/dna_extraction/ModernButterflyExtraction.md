@@ -29,7 +29,7 @@ This protocol is based on the manufacturer's handbook for the DNeasy Blood and T
 
 6. Place the spin column in a new 2 ml collection tube, add **500 µl Buffer AW1**, centrifuge at **6000 x g** for **1 min**. Discard flow through and collection tube.
 
-7. Place the spin column in a new 2 ml collection tube, add **200 µl Buffer AW2**, centrifuge at **20 000 x g** for **3 min** to dry the DNeasy membrane. Discard flow-through and collection tube.
+7. Place the spin column in a new 2 ml collection tube, add **500 µl Buffer AW2**, centrifuge at **20 000 x g** for **3 min** to dry the DNeasy membrane. Discard flow-through and collection tube.
    * **Note**: Ensure spin column does not touch flow through on removal from the collection tube. If it does, place in a new spin column and repeat centrifugation to dry.
 
 8. Place the spin column in a clean and **labeled LoBind tube**. Add **100 µl Buffer AE** directly to the column membrane. Incubate at **room temperature** for **1 min**, then centrifuge at **6000 x g** for **1 min** to elute.
